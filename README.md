@@ -17,3 +17,10 @@ from an OTA update:
 The following files/folders were extracted from `vendor.img`
 from an OTA update:
 - `wlan/`
+
+The following files/folders were extracted from `modem.img`
+from an OTA update:
+- `modem_pr/`
+- `adsp.*`
+- `modem.*`
+- `mba.mbn`
